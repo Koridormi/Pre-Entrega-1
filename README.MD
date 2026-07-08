@@ -1,7 +1,7 @@
-# PreEntrega JS 1
+# PreEntrega JavaSript 1
 
-## Ubicacion del JS
+## Ubicacion del codigo JS
 
 * src -> js -> app.js
 
-Sebastian Gonzalo Ortega
+Alumno: Sebastian Ortega
